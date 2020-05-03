@@ -1,0 +1,14 @@
+Variable          Purpose
+path              To get and store the path of existing directory
+url               To store the url of website for data download
+activityLabels    To store the labels of different activities from the file
+features          To store features list from the file
+featuresWanted    Select only the required features with mean or std in their name
+measurements      To store measurement values
+train             To store X_train dataset
+trainActivities   To store Y_train dataset
+trainSubjects     To store subjects train dataset
+test              To store X_test dataset
+testActivities    To store Y_test dataset
+testSubjects      To store subjects test dataset
+combined          To store combined dataset
